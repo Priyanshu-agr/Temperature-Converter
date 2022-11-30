@@ -1,0 +1,36 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+h1{
+  font-family: 'Bree Serif', serif;
+  font-size: 42px;  
+  text-align: center;
+}
+#cont{
+  /*margin-left: 476.7px;
+  padding: 80px;
+  margin-top:220px;*/
+  border-style:solid;
+  border-color: #656565;
+  margin-top: 300px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  flex-direction: column;
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+  
+}
+div{
+  display: inline-block;
+}
+#in_s{
+  margin-left: 45.4px;
+}
+#out_s{
+  margin-left: 60.545px;
+}
